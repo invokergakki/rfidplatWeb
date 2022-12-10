@@ -38,7 +38,7 @@
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "qiniu-webpack-plugin": "^0.4.2",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "sass": "^1.18.0",
     "sass-loader": "^7.1.0",
     "svg-sprite-loader": "^3.9.2",
